@@ -14,7 +14,8 @@ MongoDB
 <img src="https://github.com/JAGADEESHWARAN20/Resume-Generator/assets/66456490/8622eac8-dd5c-44da-b22a-6a44674bea43" width="200" />
 
 SQLite     
-![image](https://github.com/JAGADEESHWARAN20/Resume-Generator/assets/66456490/591e7143-6be2-46a2-8748-80a7e3d61d8b)
+<img src="https://github.com/JAGADEESHWARAN20/Resume-Generator/assets/66456490/591e7143-6be2-46a2-8748-80a7e3d61d8b" width="200" />
+
 
 
 
