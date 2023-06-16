@@ -2,7 +2,8 @@
 This is fully based on Python Gui System Application , It mostly helps for Working Professionals and Students to Create  ATS friendly Resume
 
 # Installation
-Open """Visual Studio Code""" 
+Open 
+# Visual Studio Code
 
 Clone this Repository
 
