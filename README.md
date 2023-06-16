@@ -39,4 +39,5 @@ screenshot four:
 
 
 If you Like this Project Do support:
-![bmc_qr](https://github.com/JAGADEESHWARAN20/Resume-Generator/assets/66456490/2892bc49-f767-456f-87bc-ad28015793d1)
+
+<img src="https://github.com/JAGADEESHWARAN20/Resume-Generator/assets/66456490/2892bc49-f767-456f-87bc-ad28015793d1" width="200" />
